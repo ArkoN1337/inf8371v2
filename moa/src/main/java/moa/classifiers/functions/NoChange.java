@@ -69,7 +69,6 @@ public class NoChange extends AbstractClassifier implements MultiClassClassifier
        
     }
 
-    //comment test
     public boolean isRandomizable() {
         return false;
     }
