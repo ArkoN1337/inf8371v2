@@ -68,8 +68,6 @@ public class NoChange extends AbstractClassifier implements MultiClassClassifier
     public void getModelDescription(StringBuilder out, int indent) {
        
     }
-
-    //test
     public boolean isRandomizable() {
         return false;
     }
