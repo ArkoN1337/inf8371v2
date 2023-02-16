@@ -40,7 +40,7 @@ public abstract class AbstractMOAObject implements MOAObject {
     public int measureByteSize() {
         return measureByteSize(this);
     }
-    //test
+    //test 123
 
     /**
      * Returns a description of the object.
